@@ -1,1 +1,1 @@
-TASKS 0x03. Shell, init files, variables and expansions
+SHELL, init files, variables and expansions PROJECTS
